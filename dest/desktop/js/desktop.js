@@ -4,7 +4,7 @@
 
   kintone.events.on('app.record.index.show', (e) => {
     // var will be changed to const
-    const message = 'this is a message';
+    const message = 'this is a message from new commit';
 
     // not automatically fixed
     const unusedVar = null;
