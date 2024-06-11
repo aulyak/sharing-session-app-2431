@@ -1,0 +1,19 @@
+{
+  "name": "sharing-session-app-2431",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cybozu/eslint-config": "^23.0.0",
+    "@kintone/customize-uploader": "^8.0.12",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "prettier": "^3.3.2"
+  }
+}
